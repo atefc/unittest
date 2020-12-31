@@ -3,7 +3,7 @@ const readline = require("readline");
 const { stdin, stdout } = require("process");
 
 const rl = readline.createInterface(stdin, stdout);
-console.log("This program will your metabolism ...");
+console.log("This program will calculate your metabolism ...");
 var age;
 var height;
 var weigth;
