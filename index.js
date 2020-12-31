@@ -5,7 +5,6 @@ const { stdin, stdout } = require("process");
 const rl = readline.createInterface(stdin, stdout);
 console.log("This program will your metabolism ...");
 var age;
-var age;
 var height;
 var weigth;
 var cal;
